@@ -1,0 +1,97 @@
+a {
+    color: #F52887;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0BBDE0;
+}
+
+hr {
+    margin: 20px 0 20px 0;
+    height: 1px;
+    background-color: #999;
+    border: 0;
+}
+
+body {
+    font-size: 13px;
+    margin: 50px;
+    font-family: wf_SegoeUI, Segoe UI, Segoe, Segoe WP, Tahoma, Verdana, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-family: Segoe UI Light, Segoe UI, Arial, Helvetica, Verdana, Sans Serif;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+h2 {
+    font-family: Segoe UI Light, Segoe UI, Arial, Helvetica, Verdana, Sans Serif;
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 0;
+}
+
+h3 {
+    font-family: Segoe UI Light, Segoe UI, Arial, Helvetica, Verdana, Sans Serif;
+    font-size: 18px;
+    font-weight: 100;
+    margin-top: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+li {
+    margin: 0 0 10px 0;
+}
+
+.block {
+    height: 160px;
+    width: 200px;
+    color: white;
+    float: left;
+    padding: 0;
+    margin: 0 0 10px 10px;
+    cursor: pointer;
+    display: block;
+    padding-left: 20px;
+}
+
+.purple {
+    background-color: #68217A;
+}
+
+.green {
+    background-color: #008641;
+}
+
+.blue {
+    background-color: #00188F;
+}
+
+.red {
+    background-color: #CD4900;
+}
+
+.block:hover {
+    background-color: #FFCC00;
+}
+
+.block div {
+    margin: 20px 5px 0 0;
+    color: white;
+    font-size: 25px;
+}
+
+.block a {
+    height: 25px;
+    width: 25px;
+    background-image: url('http://i.microsoft.com/visualstudio/_base_v1/modules/box-link/images/cta_arrow_white_lg_spaced.png');
+    float: right;
+    margin-top: 70px;
+    margin-right: 10px;
+}
