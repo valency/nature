@@ -1,0 +1,54 @@
+NOTE:
+1) Student should mainly focus on "Abstract","Introduction","Related Work" (if has) and "Conclusion" sections.
+2) Give a brief introduction about "Methods" or "Experiment Evaluation" will obtain bonus points.
+3) Presentation on 17th July or 19th July 2017
+4) Paper Report Deadline: 19th July 2017 in Class
+
+[Each group should choose three candiate papers to me before 24:00 13th July 2017]
+Paper List:
+1. A Human-Machine Collaborative System for Identifying Rumors on Twitter (Group 2)
+识别谣言
+
+2. Cross-Dataset Validation of Feature Sets in Musical Instrument Classification (Group 8)
+识别乐器
+
+3. Newsworthy Rumor Events A Case Study of Twitter (Group 5)
+识别谣言
+
+4. Population Behavior Analysis of Chinese University Students via Digital Campus (Group 12)
+学生行为分析
+
+5. To Love or to Loathe？ How is the World Reacting to Chinas Rise (Group 10)
+中国崛起世界反应分析
+
+6. Toponym Recognition in Social Media for Estimating the Location of Events (Group 7)
+从社交媒体中识别地名
+
+7. Football Market Strategies Think Locally, Trade Globally (Group 9)
+足球市场策略
+
+8. Historical Data Integration A Study of WWI Canadian Soldiers (Group 11)
+一战士兵研究
+
+9. Machine Learning for modeling the biomechanical behavior of human soft tissue 
+人类软组织生物行为
+
+10. Predicting User Roles in Social Networks using Transfer Learning with Feature Transformation
+预测社交网络中用户角色
+
+11. Robust Automated Human Activity Recognitionand its Application to Sleep Research (Group 6)
+睡眠识别
+
+12. Tracking Language Mobility in the Twitter Landscape (Group 3)
+研究语言的移动性
+
+13. Will I Get in Modeling the Graduate Admission Process for American Universities (Group 4)
+美国大学生录取分析
+
+14. Activity Recognition Using Wrist-Worn Sensors for Human Performance Evaluation (Group 13)
+基于可穿戴设备识别人体活动
+
+15. A Stochastic Game Theoretic Model for Expanding ATM Services (Group 1)
+ATM机服务扩张分析
+
+
